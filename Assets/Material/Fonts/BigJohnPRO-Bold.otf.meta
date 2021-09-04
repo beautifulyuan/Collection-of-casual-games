@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e3701cc7f2e77b94c9a3587c0931d190
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Big John PRO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30dc7c95384a71d46b24eff9b38326a5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
